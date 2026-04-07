@@ -1,4 +1,4 @@
-# Sean W. — Background
+## Summary
 4+ years across full-stack development, system architecture, and business process automation.
 
 Founder of The Nairobi Tech Creative — a consultancy specializing in full-stack systems, business automation, and startup infrastructure.
