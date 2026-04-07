@@ -1,6 +1,5 @@
-# Sean W. — Full-Stack Engineer
-
-Building production-grade business software for high-end clients and financial tech. 4+ years across full-stack development, system architecture, and business process automation.
+# Sean W. — Background
+4+ years across full-stack development, system architecture, and business process automation.
 
 Founder of The Nairobi Tech Creative — a consultancy specializing in full-stack systems, business automation, and startup infrastructure.
 
